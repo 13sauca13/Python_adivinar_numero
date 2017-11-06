@@ -1,3 +1,3 @@
-# Random number guessing game
+# Juego de adivinar numero aleatorio
 
-Little Python random number guessing game
+Pequeño juego en Python2 para adivinar un numero aleatorio
